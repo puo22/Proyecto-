@@ -1,0 +1,2 @@
+Ingrese el nombre del archivo de entrada (.py): <tk_entero,1,1,1>
+>>> Error léxico(linea:1,posicion:2)
