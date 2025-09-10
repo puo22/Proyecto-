@@ -148,7 +148,7 @@ El analizador genera tokens para identificadores, palabras reservadas, operadore
 
 ---
 
-✍️ **Autores:** \[Tu nombre o el de tu equipo]
-📅 **Fecha:** \[Coloca la fecha de entrega]
+✍️ **Autores:** \[Paula Ortiz / Sofia Londoño ]
+📅 **Fecha:** \[10 de Septiembre, 2025]
 
 ---
