@@ -14,14 +14,14 @@ El proyecto fue diseñado siguiendo las especificaciones del documento de la mat
 
 ```
 Proyecto1/
-├── codigo.py            # Archivo de prueba (ejemplo con clases Animal y Cow)
 ├── caso1.py             # Caso de prueba 1 (90.00.50)
 ├── caso2.py             # Caso de prueba 2 (1¬239)
 ├── caso3.py             # Caso de prueba 3 (2.5598055while3!=88¬56.a)
-├── salida_codigo.txt    # Resultados esperados para codigo.py
+├── codigo.py            # Archivo de prueba (ejemplo con clases Animal y Cow)
 ├── salida_caso1.txt     # Resultados esperados para caso1.py
 ├── salida_caso2.txt     # Resultados esperados para caso2.py
 ├── salida_caso3.txt     # Resultados esperados para caso3.py
+├── salida_codigo.txt    # Resultados esperados para codigo.py
 ├── README.txt           # Este archivo
 └── lexer.py             # Analizador léxico
 ```
