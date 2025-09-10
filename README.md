@@ -22,6 +22,7 @@ Proyecto1/
 ├── salida_caso2.txt     # Resultados esperados para caso2.py
 ├── salida_caso3.txt     # Resultados esperados para caso3.py
 ├── salida_codigo.txt    # Resultados esperados para codigo.py
+├── Prueba.py            # Archivo de prueba 
 ├── README.txt           # Este archivo
 └── lexer.py             # Analizador léxico
 ```
